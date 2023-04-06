@@ -9,9 +9,11 @@
 ### Food
 
 #### Frühstück
-- 1x Aufbackbrötchen
+- 1x Brot
 - 1x Toast
 - 1x Käse
+- Mozzarella
+- Tomate
 - 1x Salami
 - 1x (Noch weiteren Aufschnitt?)
 
@@ -26,7 +28,8 @@
 |         |                  |   Mais                                   |
 |         |                  |   Hähnchenflügel (?)                     |
 |         |                  |   Passierte Tomaten                      |
-| Montag  | TBD              |                                          |
+| Montag  | Spaghetti Tuna   |   Spaghetti                              |
+|         |                  |   Tuna                                   |
 
 ### Snacks
 - 1x Pommels
