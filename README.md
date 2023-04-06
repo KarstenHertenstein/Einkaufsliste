@@ -20,12 +20,12 @@
 | Tag     | Gericht           | Zutaten                                  |
 |---------|------------------|------------------------------------------|
 | Freitag | Tortellini (?)   |                                          |
-| Sa-So   | Chili            | - Hack                                   |
-|         |                  | - 2x Bohnen                              |
-|         |                  | - Chilis                                 |
-|         |                  | - Mais                                   |
-|         |                  | - Hähnchenflügel (?)                     |
-|         |                  | - Passierte Tomaten                      |
+| Sa-So   | Chili            |   Hack                                   |
+|         |                  |   2x Bohnen                              |
+|         |                  |   Chilis                                 |
+|         |                  |   Mais                                   |
+|         |                  |   Hähnchenflügel (?)                     |
+|         |                  |   Passierte Tomaten                      |
 | Montag  | TBD              |                                          |
 
 ### Snacks
